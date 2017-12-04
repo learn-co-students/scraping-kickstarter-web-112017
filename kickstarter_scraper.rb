@@ -28,8 +28,3 @@ def create_project_hash
   # return the projects hash
   projects
 end
-
-project = create_project_hash
-
-binding.pry
-"test"
